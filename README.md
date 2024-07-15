@@ -1,4 +1,4 @@
-# googlemaps_test
+# For Google Maps API
 
 ## Configuration Steps
 ### Google Maps API key
